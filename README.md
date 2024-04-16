@@ -24,17 +24,17 @@ Visualization: Visualized the data with the help of charts and graphs.
 
 ## Insights: 
 ### 1.	Non-Default: 
-The academic degree has fewer defaults. 
-Students and Businessmen have no defaults. 
-Clients with Trade Type 4 and 5 and Industry Type 8 have defaulted less than 3%. 
-People above the age of 50 have a low probability of defaulting. 
-Applicants with an Income of more than 700,000 are less likely to default. 
-People with zero to two children tend to repay the loans. 
+The academic degree has fewer defaults.  
+Students and Businessmen have no defaults.  
+Clients with Trade Type 4 and 5 and Industry Type 8 have defaulted less than 3%.  
+People above the age of 50 have a low probability of defaulting.  
+Applicants with an Income of more than 700,000 are less likely to default.  
+People with zero to two children tend to repay the loans.  
 ## 2.	Default: 
-Men are at a relatively higher default rate. 
-Clients who are either on Maternity leave OR Unemployed default a lot. 
-Not approving the loan of young people who are in the age group of 20-40 as they have a higher probability of defaulting. 
-When the credit amount goes beyond 3M, there is an increase in defaulters. 
-People who have less than 5 years of employment have a high default rate. 
+Men are at a relatively higher default rate.  
+Clients who are either on Maternity leave OR Unemployed default a lot.  
+Not approving the loan of young people who are in the age group of 20-40 as they have a higher probability of defaulting.  
+When the credit amount goes beyond 3M, there is an increase in defaulters.  
+People who have less than 5 years of employment have a high default rate.  
 
 
